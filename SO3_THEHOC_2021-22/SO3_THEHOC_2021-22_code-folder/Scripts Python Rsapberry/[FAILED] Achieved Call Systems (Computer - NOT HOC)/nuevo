@@ -1,0 +1,7 @@
+country=ES
+ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+network={
+    ssid="AndroidAP"
+    psk="michaco1999"
+    key_mgmt=WPA-PSK
+}

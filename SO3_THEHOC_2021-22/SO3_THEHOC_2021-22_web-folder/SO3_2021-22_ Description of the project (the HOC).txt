@@ -1,0 +1,13 @@
+Project Title:
+The HOC
+
+Project Members:
+José Ignacio Daguerre Garrido
+Francisco Javier Muñoz Ruiz
+Kateryna Lapshyna 
+Noelia Carrasco Vilar
+
+Project description (100-250 words):
+The exponential growth in the usage of technologies in our everyday life has left the elderly confused. In combination with the problem of the Covid-19 pandemic, nowadays, the elderly are especially vulnerable. And, as quarantine times have shown,the younger generation may not always be able to be near and help the elderly. 
+So, based on this problem, it was decided to create a device that would facilitate the interaction of elderly people with their personal gadgets, which, in turn, will allow to be in touch with their relatives, even if you are separated by cities or countries. 
+We propose a solution in creating a system based on a physical portable smart object called "The HOC", which will have the basic functionality of modern digital devices. Management will be possible by scanning identifying tags. The device is equipped with direct voice functionality for the reproduction and creation of audio content. Also, the corresponding mobile application, which is connected to the smart object, will be managed by a family member to simplify the process of personalization of the device for the elderly person. Thus, the main idea is to provide a connection between the actions set via the mobile application and the actions to be performed in reality by the smart object to facilitate daily tasks.
